@@ -25,7 +25,6 @@ return {
       },
     },
   },
-  
   -- 使用 mason 自動安裝 formatters
   {
     "williamboman/mason.nvim",
