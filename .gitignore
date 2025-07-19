@@ -7,6 +7,4 @@ foo.*
 *.log
 data
 
-claude.md
-
 lazy-lock.json
